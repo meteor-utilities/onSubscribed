@@ -1,5 +1,11 @@
 This package provides a new `onSubscribed` callback that gets called whenever a template's subscriptions are done loading. 
 
+### Install
+
+```
+meteor add utilities:onsubscribed
+```
+
 ### Usage
 
 ```js

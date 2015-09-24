@@ -27,7 +27,7 @@ Template.myTemplate.onSubscribed(function () {
 Gets called whenever a template's data context changes.
 
 ```js
-Template.myTemplate.onDataChange(function () {
+Template.myTemplate.onDataChanged(function () {
   console.log("data context changed!");
 });
 ```

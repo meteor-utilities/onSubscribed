@@ -1,7 +1,7 @@
 Package.describe({
   name: "utilities:onsubscribed",
   summary: "OnSubscribed: Add an onSubscribed callback to your templates",
-  version: "0.1.1",
+  version: "0.1.2",
   git: "https://github.com/meteor-utilities/onSubscribed"
 });
 
